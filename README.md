@@ -1,2 +1,1 @@
-# Image_Analysis_System
-Deep Learning Image Analysis System
+# 딥러닝 기반 이미지 분석 시스템 개발
